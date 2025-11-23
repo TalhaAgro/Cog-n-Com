@@ -2,6 +2,8 @@ import { useState } from "react";
 import { useRef } from "react";
 import cogNComLogo from "./assets/templogo.png";
 import minhPhoto from "./assets/linkedin/minh.jpg";
+import violaPhoto from "./assets/linkedin/viola.jpg";
+import talhaPhoto from "./assets/linkedin/talha.jpg";
 import uploadIcon from "./assets/Upload.png";
 import { UserAudioPlayback } from "./components/Playback";
 import Form from "./components/Form";
@@ -101,13 +103,13 @@ function App() {
         <h1>Meet the Devs!</h1>
         <div className="devsContainer">
           <div>
-            <img src={cogNComLogo} alt="Talha Agro's Photo"></img>
+            <img src={talhaPhoto} alt="Talha Agro's Photo"></img>
             <h3>Talha Agro</h3>
             <p>Gemini Developer</p>
           </div>
           <div>
-            <img src={cogNComLogo} alt="Viola's Photo"></img>
-            <h3>Viola</h3>
+            <img src={violaPhoto} alt="Viola Sergyous's Photo"></img>
+            <h3>Viola Sergyous</h3>
             <p>Developer</p>
           </div>
           <div>
