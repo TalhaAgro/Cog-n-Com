@@ -1,4 +1,8 @@
-// this is the structure of each song track that will display on the frontend
+/**
+ * Author: Talha Agro
+ * this is the structure of each song track that will display on the frontend
+ */
+
 export interface Song {
     title: string;
     artist: string;
