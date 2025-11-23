@@ -118,7 +118,7 @@ export const analyzeMusic = async (
       config: {
         responseMimeType: "application/json",
         responseSchema: responseSchema,
-        temperature: 0.5, // Balanced creativity
+        temperature: 0.5, //balanced creativity
       },
     });
 
