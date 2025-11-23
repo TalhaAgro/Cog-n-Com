@@ -1,1 +1,0 @@
-# This file handles the app initialization
