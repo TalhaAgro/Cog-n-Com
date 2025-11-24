@@ -10,6 +10,7 @@ Talha Agro
 - Original app idea
 - Backend development
 - API integration
+- Video Demo
 
 Nhat Minh Phan
 - Frontend development
